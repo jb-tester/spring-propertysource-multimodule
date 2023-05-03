@@ -13,3 +13,5 @@ Thus the properties from this file are shown as not used, are not resolved in @V
 also no config properties completion work in this file.
 The application.properties file from the application-module is treated as project-wide however,
 the properties from this file are resolved in @Value annotations in the model-module.
+
+[IDEA-319476](https://youtrack.jetbrains.com/issue/IDEA-319476)
